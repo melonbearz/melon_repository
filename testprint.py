@@ -12,5 +12,3 @@ def print_lemon(number):
         n += 1
         
         
-print_melon(3)
-print_lemon(4)
